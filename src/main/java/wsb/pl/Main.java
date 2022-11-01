@@ -17,7 +17,7 @@ public class Main {
 
         } else {
 
-            System.out.println("Impossible to create triangle!");
+            System.out.println("Impossible to create triangle");
         }
 
     }
